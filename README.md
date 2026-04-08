@@ -5,7 +5,7 @@ An interactive, high-fidelity educational platform designed to take beginners fr
 ![Version](https://img.shields.io/badge/version-2.0.0-blueviolet)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Aesthetics](https://img.shields.io/badge/aesthetics-premium-orange)
-
+<img width="1451" height="831" alt="Image" src="https://github.com/user-attachments/assets/78721892-4078-43f4-a9bb-bb21212a7e8c" />
 ## ✨ Overview
 
 The **Cloud & DevOps Explorer** is a single-page interactive dashboard that demystifies complex cloud concepts. By combining high-fidelity SVG animations with a gamified "Adventure Mode," it transforms dry documentation into an engaging learning journey.
