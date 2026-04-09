@@ -43,10 +43,10 @@ The **Cloud & DevOps Explorer** is a single-page interactive dashboard that demy
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/cloud-devops-explorer.git
+    git clone https://github.com/krrish20/Cloud-DevOps-Explorer.git
     ```
 2.  **Open the Explorer**:
-    Simply open the `cloud-devops-explorer.html` file in any modern web browser.
+    Simply open the `index.html` file in any modern web browser.
     *   *No build steps required.*
     *   *No dependencies to install.*
     *   *Zero configuration.*
